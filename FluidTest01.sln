@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FE431156-B9EE-235C-CAD5-483892120E0E}") = "FluidTest01", "Assembly-CSharp-firstpass.csproj", "{79EB74F6-52D5-B0F0-53BB-5191135C5E37}"
+EndProject
+Project("{FE431156-B9EE-235C-CAD5-483892120E0E}") = "FluidTest01", "Assembly-CSharp.csproj", "{99BCE53F-4C12-B401-D0F5-3E5C1B9CAAD5}"
+EndProject
+Project("{FE431156-B9EE-235C-CAD5-483892120E0E}") = "FluidTest01", "Assembly-CSharp-Editor.csproj", "{F9D09575-2D2F-66F1-1CC3-A8F5D720658D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79EB74F6-52D5-B0F0-53BB-5191135C5E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EB74F6-52D5-B0F0-53BB-5191135C5E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EB74F6-52D5-B0F0-53BB-5191135C5E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EB74F6-52D5-B0F0-53BB-5191135C5E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BCE53F-4C12-B401-D0F5-3E5C1B9CAAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BCE53F-4C12-B401-D0F5-3E5C1B9CAAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BCE53F-4C12-B401-D0F5-3E5C1B9CAAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BCE53F-4C12-B401-D0F5-3E5C1B9CAAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D09575-2D2F-66F1-1CC3-A8F5D720658D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D09575-2D2F-66F1-1CC3-A8F5D720658D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D09575-2D2F-66F1-1CC3-A8F5D720658D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D09575-2D2F-66F1-1CC3-A8F5D720658D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
