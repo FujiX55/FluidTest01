@@ -17,7 +17,7 @@ public class Faucet : MonoBehaviour {
 
 	    for (int i = 0; i < (volume*Time.deltaTime); i++) {
 			Instantiate(waterPrefab, position, transform.rotation);
-			position.y += offset;
+			position.y += offset / Time.deltaTime;
 		}
 	}
 }
