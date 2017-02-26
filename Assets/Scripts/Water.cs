@@ -5,7 +5,7 @@ public class Water : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Destroy(this.gameObject, 15.0f);
+		Destroy(this.gameObject, 4.0f);
 	}
 	
 	// Update is called once per frame
